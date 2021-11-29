@@ -1,5 +1,9 @@
 package main
 
+import {
+	"APISERVER/log"
+}
+
 func main() {
 	//str := time.Now().String()
 	//t, _ := time.Parse(time.RFC822Z, str)
@@ -16,3 +20,4 @@ func main() {
 	l.Print()
 
 }
+
