@@ -1,3 +1,3 @@
-module github.com/chefpavlodar/APISERV 
+module APISERV
 
-go 1.14
+go 1.17
